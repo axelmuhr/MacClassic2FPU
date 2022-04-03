@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2021-11-14T13:28:36Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.271119,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "MacClassic2FPU"
+        },
+        "Owner": "  <>",
+        "Size": {
+            "X": 68.6,
+            "Y": 65
+        }
+    }
+}
