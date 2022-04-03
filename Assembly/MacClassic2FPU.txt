@@ -2,8 +2,8 @@ BOM
 
 Qty Value   Device        Package   Parts                  Description                          
 1           DIL14S        SOCKET-14 IC2                    Dual In Line / Socket                
-1           FE05-2W       FE05-2W   SV1                    FEMALE HEADER                        
-1           FE20-2W       FE20-2W   SV2                    FEMALE HEADER                        
+1           FE05-2W       FE05-2W   SV1                    FEMALE HEADER  (This is a combo of two                   
+1           FE20-2W       FE20-2W   SV2                    FEMALE HEADER   connectors to get a 25-2W)                     
 1           MA03-1        MA03-1    SV3                    PIN HEADER                           
 6   100nf   C-EUC0805     C0805     C2, C3, C4, C5, C6, C7 CAPACITOR, European symbol           
 1   33      R-EU_R0805    R0805     R1                     RESISTOR, European symbol            
